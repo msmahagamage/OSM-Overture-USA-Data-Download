@@ -36,3 +36,8 @@ The goal is to build a nationwide dataset of food access points, including groce
 - Outputs:
   - Clean dataset with attributes and coordinates
   - Shapefile for GIS use
+
+  | Feature | OSM | Overture |
+  |---------|-------|--------|
+  |A |B|C|
+  |D|E|F|

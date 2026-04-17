@@ -1,9 +1,9 @@
-Healthy Grocery Stores USA (OSM + Overture)
+# Healthy Grocery Stores USA (OSM + Overture)
 
 This project downloads healthy grocery store locations across the United States using two major open geospatial data sources:
 
-OpenStreetMap (OSM) via Overpass API
-Overture Maps Foundation via DuckDB + Parquet
+- OpenStreetMap (OSM) via Overpass API
+- Overture Maps Foundation via DuckDB + Parquet
 
 The goal is to build a nationwide dataset of food access points, including grocery stores, supermarkets, organic markets, and related food facilities.
 
